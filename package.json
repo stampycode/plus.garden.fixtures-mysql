@@ -1,0 +1,28 @@
+{
+  "name": "plus.garden.fixtures-mysql",
+  "version": "0.0.2",
+  "description": "mysql fixtures loader for plus.garden",
+  "main": "index.js",
+  "keywords": [
+    "mysql",
+    "fixtures"
+  ],
+  "author": {
+    "name": "Vladimir Polyakov"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "~2.0.0-rc2",
+    "mysql": "~2.5.2",
+    "sequelize-fixtures": "~0.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkshare/plus.garden.fixtures-mysql.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linkshare/plus.garden.fixtures-mysql/issues"
+  },
+  "homepage": "https://github.com/linkshare/plus.garden.fixtures-mysql#readme"
+}

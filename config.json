@@ -1,0 +1,7 @@
+{
+  "fixtures-mysql": {
+    "uri": "mysql://username:password@localhost:3306/database",
+    "fixtures": "fixtures",
+    "models": "models"
+  }
+}
