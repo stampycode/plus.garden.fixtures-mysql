@@ -11,7 +11,7 @@ Install
 
 Install npm package
 ```
-npm i plus.garden.fixtures-mysql--save
+npm i plus.garden.fixtures-mysql --save
 ```
 
 Add service to garden container
