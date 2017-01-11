@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "sequelize": "~2.0.0-rc2",
+    "sequelize": "~3.28",
     "mysql": "~2.5.2",
     "sequelize-fixtures": "~0.3.3"
   },
